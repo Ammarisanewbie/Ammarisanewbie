@@ -37,7 +37,7 @@ My journey through Computer Science has sparked an interest in cybersecurity. No
 
 ### IDE
 <div>
-    <img src ="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)](https://code.visualstudio.com/" />
+    <img src ="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white />
 </div>
 
 ## Certifications
