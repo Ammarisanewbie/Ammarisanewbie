@@ -10,8 +10,8 @@ My journey through Computer Science has sparked an interest in cybersecurity. No
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Analysing Traffic with Tcpdump                | <a href="https://github.com/Ammarisanewbie/tcpdump/blob/main/README.md">Detection Lab</a>|
-| Capturing and Examining Packets with Wireshark| <a href="https://github.com/Ammarisanewbie/UsingWireshark">Detection Lab</a>|
+| Analysing Traffic with Tcpdump                | <a href="https://github.com/Ammarisanewbie/tcpdump/blob/main/README.md">Analyse Network Traffic with TCPDump</a>|
+| Capturing and Examining Packets with Wireshark| <a href="https://github.com/Ammarisanewbie/UsingWireshark">Wireshark for Beginners: Capture Packets </a>|
 | IP Address Allow List Python Program          | |
 | Using Wireshark to find Login Password        | |
 | Linux Administration Basics                   | |
@@ -27,30 +27,20 @@ My journey through Computer Science has sparked an interest in cybersecurity. No
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
 </div>
 
-### Virtual Machine
+### Virtualization 
 <div>
-    <img src="(https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Oracle%20Virtual%20Machine&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Oracle%20Virtual%20Box-EF3B2D?&style=for-the-badge&logo=Oracle&logoColor=white" />
 </div>
 
 ### IDE
 <div>
-    <img src ="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white />
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
 </div>
 
-
-## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
-</div>
 
 ## Projects
-- Detection Lab
-- SOC Automation Project
+- Analyse Network Traffic with TCPDump
+- Wireshark for Beginners: Capture Packets
+- IP Address Allow List(Python)
