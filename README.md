@@ -1,4 +1,4 @@
-# Welcome, I'm Ammar
+# Welcome to my Intro Page, I'm Ammar
 <a href="https://www.linkedin.com/in/mohamedammar28/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Computer science graduate with a keen interest in cybersecurity and a desire to make a meaningful impact. Excited to explore opportunities in cybersecurity.
@@ -21,7 +21,6 @@ My journey through Computer Science has sparked an interest in cybersecurity. No
 
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
 
 ### Network
 <div>
