@@ -40,6 +40,6 @@ As I've delved into Computer Science, my fascination with cybersecurity has grow
 
 
 ## Projects
-- Analyse Network Traffic with TCPDump
-- Wireshark for Beginners: Capture Packets
-- IP Address Allow List(Python)
+- <a href="https://github.com/Ammarisanewbie/tcpdump/blob/main/README.md">Analyse Network Traffic with TCPDump</a>
+- <a href="https://github.com/Ammarisanewbie/UsingWireshark">Wireshark for Beginners: Capture Packets </a>
+- <a href="https://github.com/Ammarisanewbie/IP-AllowList">IP Allow List Program)
