@@ -26,8 +26,16 @@ As I've delved into Computer Science, my fascination with cybersecurity has grow
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Tcpdump-EF3B2D?&style=for-the-badge&logo=Tcpdump&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Nmap-ED1944?&style=for-the-badge&logo=Nmap&logoColor=white" />
 </div>
 
+### Cybersecurity
+<div>
+    <img src="https://img.shields.io/badge/-BurpSuite-FF6347?&style=for-the-badge&logo=BurpSuite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-ED1C24?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    
+</div>
+    
 ### Virtualization 
 <div>
     <img src="https://img.shields.io/badge/-Oracle%20Virtual%20Box-EF3B2D?&style=for-the-badge&logo=Oracle&logoColor=white" />
@@ -36,6 +44,12 @@ As I've delved into Computer Science, my fascination with cybersecurity has grow
 ### IDE
 <div>
     <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white" />
+</div>
+
+### Operating System
+<div>
+   <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/-Windows%20OS-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
 </div>
 
 
